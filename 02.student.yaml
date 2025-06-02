@@ -1,0 +1,10 @@
+- firstname: Sathish
+  lastname: Voddaboina
+  email: Sathish.1235@gmail.com
+  address:
+  - type: perm
+    doorno: 9-4-5
+    Street: Gandhi Nagar
+  - type: Current
+    doorno: 9-4-5
+    street: Gandhi Nagar  
